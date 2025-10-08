@@ -2,7 +2,7 @@ name: hungarian-accents
 title: Hungarian Accents
 description: A package to type hungarian accents.
 homepage: https://github.com/akosmagyari/espanso-hungarian-accents
-version: 0.1.0
+version: 1.0.0
 author: Magyari Ákos
 tags:
   - languages
