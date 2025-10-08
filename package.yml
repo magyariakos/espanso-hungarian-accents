@@ -1,0 +1,57 @@
+matches:
+  # Lowercase:
+  - trigger: "a'"
+    replace: "á"
+
+  - trigger: "e'"
+    replace: "é"
+
+  - trigger: "i'"
+    replace: "í"
+
+  - trigger: "o'"
+    replace: "ó"
+
+  - trigger: "o:"
+    replace: "ö"
+
+  - trigger: 'o"'
+    replace: "ő"
+
+  - trigger: "u'"
+    replace: "ú"
+
+  - trigger: "u:"
+    replace: "ü"
+
+  - trigger: 'u"'
+    replace: "ű"
+
+  # Uppercase:
+  - trigger: "A'"
+    replace: "Á"
+
+  - trigger: "E'"
+    replace: "É"
+
+  - trigger: "I'"
+    replace: "Í"
+
+  - trigger: "O'"
+    replace: "Ó"
+
+  - trigger: "O:"
+    replace: "Ö"
+
+  - trigger: 'O"'
+    replace: "Ő"
+
+  - trigger: "U'"
+    replace: "Ú"
+
+  - trigger: "U:"
+    replace: "Ü"
+
+  - trigger: 'U"'
+    replace: "Ű"
+
