@@ -1,5 +1,5 @@
 matches:
-  # Lowercase:
+  # lowercase:
   - trigger: "a'"
     replace: "á"
 
@@ -27,7 +27,7 @@ matches:
   - trigger: 'u"'
     replace: "ű"
 
-  # Uppercase:
+  # uppercase:
   - trigger: "A'"
     replace: "Á"
 
