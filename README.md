@@ -12,7 +12,7 @@ Prerequisites:
 Paste this into your terminal:
 
 ```bash
-espanso install hungarian-accents --git https://github.com/akosmagyari/espanso-hungarian-accents --external
+espanso install hungarian-accents --git https://github.com/magyariakos/espanso-hungarian-accents --external
 ```
 
 # Usage
